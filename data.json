@@ -1,0 +1,49 @@
+[
+    {
+        "name": "SwitchedCube",
+        "pfp": "switchedcube.png",
+        "accused_of": "Being a furry (joke)",
+
+        "started_by": {
+            "name": "@everyone"
+        }
+    },
+    {
+        "name": "Sculk3d",
+        "pfp": "sculk3d_.png",
+        "accused_of":"Being a furry",
+
+        "started_by": {
+            "name": "Jaegerwald",
+            "pfp": "jaegerwald.png"
+        }
+    },
+    {
+        "name": "Pixel",
+        "pfp": "ppixelll.png",
+        "accused_of": "Being a furry",
+
+        "started_by": {
+            "name": "@multiple"
+        }
+    },
+    {
+        "name": "Jaegerwald",
+        "pfp": "jaegerwald.png",
+        "accused_of": "Being a girl",
+
+        "started_by": {
+            "name": "Sculk3d",
+            "pfp": "sculk3d_.png"
+        }
+    },
+    {
+        "name": "The entire country of Poland",
+        "pfp": "poland.png",
+        "accused_of": "Everyone being femboys",
+
+        "started_by": {
+            "name": "@government"
+        }
+    }
+]
