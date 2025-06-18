@@ -28,6 +28,16 @@
         }
     },
     {
+        "name": "Drex",
+        "pfp": "therealdrex.png",
+        "accused_of": "Being a girl",
+
+        "started_by": {
+            "name": "Pixel",
+            "pfp": "ppixelll.png"
+        }
+    },
+    {
         "name": "Jaegerwald",
         "pfp": "jaegerwald.png",
         "accused_of": "Being a girl",
