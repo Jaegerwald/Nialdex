@@ -38,6 +38,15 @@
         }
     },
     {
+        "name": "DuckLoaf",
+        "pfp": "duckloaf.png",
+        "accused_of": "Being gay",
+
+        "started_by": {
+            "name": "@multiple"
+        }
+    },
+    {
         "name": "Jaegerwald",
         "pfp": "jaegerwald.png",
         "accused_of": "Being a girl",
